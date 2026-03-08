@@ -1,5 +1,6 @@
 public class OOPSBannerApp {
 
+    
     public static String[] getO() {
         return new String[] {
             "  ***  ",
@@ -11,6 +12,7 @@ public class OOPSBannerApp {
         };
     }
 
+    
     public static String[] getP() {
         return new String[] {
             " ***** ",
@@ -22,6 +24,7 @@ public class OOPSBannerApp {
         };
     }
 
+    
     public static String[] getS() {
         return new String[] {
             "  ***** ",
